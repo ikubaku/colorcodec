@@ -1,0 +1,6 @@
+[package]
+name = "colorcodec"
+version = "0.1.0"
+authors = ["ikubaku <hide4d51@gmail.com>"]
+
+[dependencies]
